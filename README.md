@@ -30,10 +30,20 @@
 
 代理状态改为开启即可
 
-<span style="color:red;font-weight:bold;">注意：小火箭--您不要以连通性检测按钮或是连接超时为准 只要输入这个网址ipaddress.my查看手机本机IP，就是您购买的IP出口，就是没问题了。那个按钮是不准的 很多人，被这个按钮误导
+<span style="color:red;font-weight:bold;">
+注意：小火箭--您不要以连通性检测按钮或是连接超时为准。
+请输入网址：<code>ipaddress.my</code> 查看手机本机IP，显示的就是您购买的IP出口，代表配置成功。
+软件自带的连通性检测按钮不准，很多人被这个按钮误导！
 </span>
 
 ## 超时问题基本出在：
 1. 没有节点或者节点不可用
 2. 代理通过没有选择可用节点
 3. 没有选中
+
+![下载Shadowrocket应用](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/1_ede03e1bc8.png)
+
+# 推荐工具
+## IP检测工具 —— ToDtect
+
+[ToDetect](https://www.todetect.cn)是一款专业级浏览器指纹检测工具，可以一键检测IP纯净度、DNS泄露测试、WebRTC检测等浏览器信息，在线免费测试，一键生成检测报告。
