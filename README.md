@@ -43,11 +43,7 @@
 
 ![下载Shadowrocket应用](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/1_ede03e1bc8.png)
 
-## 视频演示：
-
-https://github.com/Tim-ip-check/iphone-socks5-proxy/issues/2
-
-
+## 🎬 视频教程：https://youtube.com/shorts/taaN-4wk3gc
 
 # 推荐工具
 ## IP检测工具 —— ToDetect
