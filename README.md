@@ -6,4 +6,4 @@
 
 下载Shadowrocket应用
 
-[导入中转代理](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/1_354b8eecfb.png)
+![导入中转代理](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/1_354b8eecfb.png)
