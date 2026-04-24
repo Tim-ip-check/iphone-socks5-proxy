@@ -10,7 +10,7 @@
 
 ## （1）先导入中转代理 shadowsocks节点
 
-如果没有shadowsocks节点，可自行购买，购买参考网站 https://zuanshivpn1.com/subscribe，或者通过谷歌搜索“shadowsocks节点”进行购买
+如果没有shadowsocks节点，可自行购买，购买参考网站 https://zuanshivpn1.com/subscribe ，或者通过谷歌搜索“shadowsocks节点”进行购买
 
 ![导入中转代理](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/large_2_76f47f2b88.png)
 
