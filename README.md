@@ -6,25 +6,25 @@
 
 ## 下载Shadowrocket应用
 
-![下载Shadowrocket应用](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/1_354b8eecfb.png)
+![下载Shadowrocket应用](./large_1_354b8eecfb.png)
 
 ## （1）先导入中转代理 shadowsocks节点
 
 如果没有shadowsocks节点，可自行购买，购买参考网站 https://zuanshivpn1.com/subscribe ，或者通过谷歌搜索“shadowsocks节点”进行购买
 
-![导入中转代理](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/large_2_76f47f2b88.png)
+![导入中转代理](./large_2_76f47f2b88.png)
 
 ## （2）导入或添加shadowsocks节点成功后
 
 点击右上角添加，类型选择Socks5，输入服务器地址、端口、用户名和密码（选填）
 
-![导入或添加shadowsocks节点成功后](	https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/large_3_53f60ef85b.png)
+![导入或添加shadowsocks节点成功后](./large_3_53f60ef85b.png)
 
 ## （3）点击代理通过会展示出shadowsocks节点
 
 选择中国大陆以外的地区后，点击返回，回到添加节点，点击保存
 
-![下载Shadowrocket应用](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/large_Group_1000009638_813f4064da.png)
+![下载Shadowrocket应用](./large_Group_1000009638_813f4064da.png)
 
 ## （4）选择刚添加的本地节点
 
