@@ -43,7 +43,7 @@
 
 ![下载Shadowrocket应用](./图片1.png)
 
-## 🎬 视频教程：https://youtube.com/shorts/taaN-4wk3gc
+## 🎬 视频教程：https://youtube.com/shorts/1vwf8amecNE?feature=share
 
 # 推荐工具
 ## IP检测工具 —— ToDetect
