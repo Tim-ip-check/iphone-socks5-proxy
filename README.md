@@ -41,7 +41,7 @@
 2. 代理通过没有选择可用节点
 3. 没有选中
 
-![下载Shadowrocket应用](./图片1.png)
+![下载Shadowrocket应用](https://tarticle-new.oss-cn-shenzhen.aliyuncs.com/article/ipdeep_3_e0984dce80.jpg)
 
 ## 🎬 视频教程：https://youtube.com/shorts/1vwf8amecNE?feature=share
 
