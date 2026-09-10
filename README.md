@@ -2,15 +2,17 @@
 
 对于做跨境业务的朋友来说，很多业务场景需要在苹果手机上使用海外Sock5 ip，并且很多Sock5 ip仅支持境外环境使用，那么如何解决呢？【如果想看视频教程，请拉到最底部点击视频链接即可查看】
 
+### 以下操作仅为示例，仅供参考：
+
 首先使用美版apple ID登录APP Store
 
 ## 下载Shadowrocket应用
 
 ![下载Shadowrocket应用](./large_1_354b8eecfb.png)
 
-## （1）先导入中转代理 shadowsocks节点
+## （1）先导入中转代理，如：shadowsocks节点
 
-如果没有shadowsocks节点，可自行购买，购买参考网站 https://zuanshivpn1.com/subscribe ，或者通过谷歌搜索“shadowsocks节点”进行购买
+如果没有shadowsocks节点，可自行购买，购买参考网站 https://zuanshivpn1.com/subscribe ，或者通过谷歌搜索“shadowsocks节点”进行购买，或者可自备代理节点
 
 ![导入中转代理](./large_2_76f47f2b88.png)
 
@@ -48,4 +50,4 @@
 # 推荐工具
 ## IP检测工具 —— ToDetect
 
-[ToDetect](https://www.todetect.cn)是一款专业级浏览器指纹检测工具，可以一键检测IP纯净度、DNS泄露测试、WebRTC检测等浏览器信息，在线免费测试，一键生成检测报告.
+[ToDetect](https://www.todetect.cn/ip/)是一款专业级浏览器指纹检测工具，可以一键检测IP纯净度、DNS泄露测试、WebRTC检测等浏览器信息，在线免费测试，一键生成检测报告.
